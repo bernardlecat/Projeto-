@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meu Projeto Git</title>
+</head>
+<body>
+    <h1>Bem-vindo ao meu projeto!</h1>
+</body>
+</html>
